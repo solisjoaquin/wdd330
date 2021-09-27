@@ -5,7 +5,7 @@ date: "2021-09-18"
 
 ## Notes of DOING STUFF WITH WEB THINGS
 
-### Rememberinh User's info
+### Remembering User's info
 
 In this example, we have a function that get a value from the user and save in the localstorage with an ID.
 
